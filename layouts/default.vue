@@ -39,7 +39,7 @@ html {
 }
 
 .container {
-  @apply mx-auto my-0 pt-20 min-h-screen;
+  @apply mx-auto my-0 pt-20 pb-20;
 }
 
 h1 {
